@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424020110208",
+    "firebase_url": "https://yala-chat-10351.firebaseio.com",
+    "project_id": "yala-chat-10351",
+    "storage_bucket": "yala-chat-10351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424020110208:android:a3af81d61febbaaa9a2f65",
+        "android_client_info": {
+          "package_name": "com.medo.yalachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424020110208-eq2bdbmfcevjon2bhm64ade6im6nh9sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medo.yalachat",
+            "certificate_hash": "b04142369994a57a33fbaad912f267ecc9def383"
+          }
+        },
+        {
+          "client_id": "424020110208-fmi5s11f2c1tqcvthp45m7ui69847fku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-vvaz1_BZb8B1zNbYxFpjm3iR_msHbQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424020110208-fmi5s11f2c1tqcvthp45m7ui69847fku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
